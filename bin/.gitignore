@@ -1,0 +1,13 @@
+/.classpath
+/.project
+/Catalog.class
+/Member.class
+/MemberIdServer.class
+/MemberList.class
+/Product.class
+/ProductIdServer.class
+/Store.class
+/Transaction.class
+/TransactionIdServer.class
+/UserInterface.class
+/doc/
